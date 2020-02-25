@@ -1,0 +1,15 @@
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\bin\Debug\ComparePerformence.dll
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\bin\Debug\ComparePerformence.pdb
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\bin\Debug\ComparePerformence.pkgdef
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\bin\Debug\ComparePerformence.vsix
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\bin\Debug\extension.vsixmanifest
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\ComparePerformence.csprojAssemblyReference.cache
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\_EmptyResource.resources
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\ComparePerformence.csproj.GenerateResource.cache
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\ComparePerformence.dll
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\ComparePerformence.pdb
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\ComparePerformence.pkgdef
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\ComparePerformence.latest.pkgdef
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\extension.vsixmanifest
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\files.json
+C:\Users\garog\source\repos\ComparePerformence\ComparePerformence\obj\Debug\createTemplateManifests.cache

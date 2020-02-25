@@ -1,0 +1,11 @@
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\bin\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.exe
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\bin\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.deps.json
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\bin\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.runtimeconfig.json
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\bin\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.runtimeconfig.dev.json
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\bin\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.dll
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\bin\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.pdb
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\obj\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.csprojAssemblyReference.cache
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\obj\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.AssemblyInfoInputs.cache
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\obj\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.AssemblyInfo.cs
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\obj\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.dll
+C:\Users\garog\source\repos\ComparePerformence\ParallelvsAsyncTaskvsThreading\obj\Debug\netcoreapp3.1\ParallelvsAsyncTaskvsThreading.pdb
